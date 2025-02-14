@@ -1,0 +1,11 @@
+{
+  "restricted_models": {
+    "gpt-4": ["premium", "enterprise", "ultimate", "owner"],
+    "gpt-4-turbo": ["donator", "premium", "enterprise", "ultimate", "owner"],
+    "claude-3-5-sonnet-20241022": ["premium", "enterprise", "ultimate", "owner"],
+    "o1-preview": ["premium", "enterprise", "ultimate", "owner"],
+    "o1-mini": ["donator", "premium", "enterprise", "ultimate", "owner"],
+    "o1": ["enterprise", "ultimate", "owner"],
+    "claude-3-5-haiku-latest": ["donator","enterprise","premium","ultimate","owner"]
+  }
+}

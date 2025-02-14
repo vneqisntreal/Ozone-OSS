@@ -1,0 +1,38 @@
+{
+  "default": {
+    "tokens_per_day": 0.25,
+    "rpm": 10,
+    "rph": 100,
+    "rpd": 400
+  },
+  "donator": {
+    "tokens_per_day": 1.20,
+    "rpm": 30,
+    "rph": 175,
+    "rpd": 900
+  },
+  "premium": {
+    "tokens_per_day": 3.00,
+    "rpm": 20,
+    "rph": 200,
+    "rpd": 1000
+  },
+  "enterprise": {
+    "tokens_per_day": 5.75,
+    "rpm": 60,
+    "rph": 500,
+    "rpd": 3000
+  },
+  "ultimate": {
+    "tokens_per_day": 16.95,
+    "rpm": 120,
+    "rph": 1000,
+    "rpd": 6000
+  },
+  "owner": {
+    "tokens_per_day": 2000000.00,
+    "rpm": 200000000,
+    "rph": 200000000,
+    "rpd": 200000000
+  }
+}
